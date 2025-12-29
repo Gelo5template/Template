@@ -1,4 +1,6 @@
-# Templates
+# Templates 
+S+M = Spectrum + Meters
+M = Meters
 **Attention!**
 The archive contains 2 folders: “templates” and “templates_spectrum”.
 Unzip on your computer and move the folders to:
