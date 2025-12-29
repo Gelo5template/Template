@@ -1,5 +1,6 @@
 # Templates 
 S+M = Spectrum + Meters
+
 M = Meters
 
 
